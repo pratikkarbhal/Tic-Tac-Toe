@@ -1,6 +1,3 @@
-# --------- Global Variables -----------
-
-# Will hold our game board data
 board = ["-", "-", "-",
          "-", "-", "-",
          "-", "-", "-"]
@@ -198,6 +195,5 @@ def flip_player():
     current_player = "X"
 
 
-# ------------ Start Execution -------------
 # Play a game of tic tac toe
 play_game()
