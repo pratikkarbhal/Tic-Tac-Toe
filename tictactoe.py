@@ -1,4 +1,4 @@
-#shailesh(181090034),pratik(181090029),vinod(181090028)
+#Python_Tic-Tac-Toe_by_Pratik_Karbhal
 
 board = ["-", "-", "-",
          "-", "-", "-",
